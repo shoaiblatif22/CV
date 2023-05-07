@@ -30,28 +30,26 @@ Trainee Software Developer
 included HTML, CSS, typescript,node.js, react, and SQL. API and routing were also taught as part ofthe
 program
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Student Radiographer** (01/09/2019 to 01/08/2022)  
+Radiographer
 
-- Any experience relevent to software development
-
+- Optimised patient monitoring by implementing moredetailed, checklist-based documentation procedures.
+- Conducted and managed imaging procedures such as X-Rays, CT scans, cardiac radiographic scans and MRI scans.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
+#### Makers Academy (01/04/2023 to 01/08/2023)
+- Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication. 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Leeds (01/09/2019 to 01/08/2022)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BSc Diagnostic Radiographer
+- 2.1
+- School Rep of CUPS (Classified Undergraduate Programmes)
 
 ## Skills
 
