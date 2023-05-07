@@ -23,10 +23,12 @@ Passionate, enthusiastic graduate changing careers from Healthcare into Software
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**SideTrade** (14/01/2023 to 15/02/2023)  
+Trainee Software Developer
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Completed a 4-week coding academy with Sidetrade in full-stack development. The technology stack
+included HTML, CSS, typescript,node.js, react, and SQL. API and routing were also taught as part ofthe
+program
 
 **Company Name** (start-date to end-date)  
 _Your job title_
