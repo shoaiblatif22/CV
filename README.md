@@ -54,7 +54,6 @@ Radiographer
 ## Skills
 
 #### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation. I further developed these skills when I was working in the NHS throughout my three year degree ....... to be continued.
 
 #### Teamwork
 
